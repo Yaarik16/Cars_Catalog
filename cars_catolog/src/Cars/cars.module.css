@@ -1,0 +1,27 @@
+.cars_wrap {
+    margin: 0px auto;
+    width: 500px;
+    color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.car_item {
+    border: 1px solid rgb(152, 149, 149);
+    margin: 20px;
+}
+.img {
+    width: 100%;
+}
+.info {
+    padding: 10px;
+}
+.btn {
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.name {
+    font-size: 20px;
+    font-weight: 700;
+}
